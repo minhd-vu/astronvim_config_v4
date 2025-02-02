@@ -78,9 +78,6 @@ return {
           desc = "Toggle color column",
         },
 
-        -- harpoon
-        ["<Leader>h"] = { desc = "🎣 Harpoon" },
-
         -- markdown
         ["<Leader>m"] = { desc = "📝 Markdown" },
 
