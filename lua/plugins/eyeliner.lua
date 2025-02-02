@@ -29,6 +29,5 @@ return {
         default_keymaps = true,
       }
     end,
-    keys = { "f", "F", "t", "T" },
   },
 }
