@@ -110,5 +110,8 @@ return {
         [">"] = { ">gv", desc = "indent line" },
       },
     },
+    rooter = {
+      autochdir = true,
+    },
   },
 }
