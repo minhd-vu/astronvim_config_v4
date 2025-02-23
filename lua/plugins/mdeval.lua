@@ -11,7 +11,7 @@ return {
     cmd = "MdEval",
     keys = {
       {
-        "<Leader>me",
+        "<Leader>Me",
         "<cmd>lua require 'mdeval'.eval_code_block()<cr>",
         mode = { "n" },
         desc = "Evaluate code block",
