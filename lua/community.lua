@@ -10,4 +10,5 @@ return {
   { import = "astrocommunity.recipes.vscode" },
   { import = "astrocommunity.docker.lazydocker" },
   { import = "astrocommunity.editing-support.dial-nvim" },
+  { import = "astrocommunity.editing-support.hypersonic-nvim" },
 }
