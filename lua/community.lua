@@ -9,4 +9,5 @@ return {
   { import = "astrocommunity.recipes.vscode-icons" },
   { import = "astrocommunity.recipes.vscode" },
   { import = "astrocommunity.docker.lazydocker" },
+  { import = "astrocommunity.editing-support.dial-nvim" },
 }
