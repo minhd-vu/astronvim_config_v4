@@ -8,4 +8,5 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.recipes.vscode-icons" },
   { import = "astrocommunity.recipes.vscode" },
+  { import = "astrocommunity.docker.lazydocker" },
 }
