@@ -11,4 +11,5 @@ return {
   { import = "astrocommunity.docker.lazydocker" },
   { import = "astrocommunity.editing-support.dial-nvim" },
   { import = "astrocommunity.editing-support.hypersonic-nvim" },
+  { import = "astrocommunity.editing-support.neogen" },
 }
