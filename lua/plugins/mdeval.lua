@@ -1,3 +1,4 @@
+---@type LazySpec
 return {
   {
     "https://github.com/jubnzv/mdeval.nvim",
