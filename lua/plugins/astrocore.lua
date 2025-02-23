@@ -79,9 +79,6 @@ return {
           desc = "Toggle color column",
         },
 
-        -- markdown
-        ["<Leader>m"] = { desc = "📝 Markdown" },
-
         -- wrap
         ["<Home>"] = {
           function()
