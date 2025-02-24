@@ -16,4 +16,5 @@ return {
   { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
   { import = "astrocommunity.register.nvim-neoclip-lua" },
   { import = "astrocommunity.search.nvim-hlslens" },
+  { import = "astrocommunity.search.grug-far-nvim" },
 }
