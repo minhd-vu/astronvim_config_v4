@@ -14,4 +14,5 @@ return {
   { import = "astrocommunity.editing-support.neogen" },
   { import = "astrocommunity.git.blame-nvim" },
   { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
+  { import = "astrocommunity.register.nvim-neoclip-lua" },
 }
