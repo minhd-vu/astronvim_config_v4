@@ -12,7 +12,6 @@ return {
   { import = "astrocommunity.editing-support.dial-nvim" },
   { import = "astrocommunity.editing-support.hypersonic-nvim" },
   { import = "astrocommunity.editing-support.neogen" },
-  { import = "astrocommunity.git.blame-nvim" },
   { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
   { import = "astrocommunity.register.nvim-neoclip-lua" },
   { import = "astrocommunity.search.grug-far-nvim" },
