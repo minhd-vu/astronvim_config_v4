@@ -3,6 +3,12 @@ local prefix = "<Leader>a"
 ---@type LazySpec
 return {
   "yetone/avante.nvim",
+  dependencies = {
+    { "stevearc/dressing.nvim", optional = true },
+    "nvim-lua/plenary.nvim",
+    "MunifTanjim/nui.nvim",
+    { "AstroNvim/astrocore", opts = function(_, opts) opts.mappings.n[prefix] = { desc = " Avante" } end },
+  },
   opts = {
     provider = "openai",
     openai = {
